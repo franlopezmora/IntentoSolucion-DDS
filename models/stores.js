@@ -15,7 +15,7 @@ StarbucksStore.init({
         field: "STORE_NAME",
         allowNull: false
     },
-    storeAdress: {
+    storeAddress: {
         type: DataTypes.STRING,
         field: "STREET_ADDRESS",
         allowNull: false
